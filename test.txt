@@ -1,4 +1,2 @@
-This is a test file! YAY. 
-Keep writing in a new line.
-
+This is a test file!
 
